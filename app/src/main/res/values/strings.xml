@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Astro Restaurante</string>
+
+
+    <string name="logotipo">Logotipo</string>
+    <string name="acceder">Acceder</string>
+    <string name="salir">Salir</string>
+    <string name="astro_pollo">Astro Pollo</string>
+    <string name="astro_restaurante">Astro Restaurante</string>
+    <string name="control_de_ordenes">Control de Ordenes</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="usuario_es_requerido">Usuario es requerido</string>
+    <string name="contrasena_es_requerido">Contraseña es requerido</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="menu">Menu</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="usuario_requerido">Usuario es requerido</string>
+    <string name="password_requerido">Contraseña es requerido</string>
+    <string name="datos_incorrectos">Datos incorrectos</string>
+    <string name="sin_conexion">Sin conexión</string>
+    <string name="nuevas_ordenes">Nuevas Ordenes</string>
+    <string name="orden_en_preparacion">Orden en Prepración</string>
+    <string name="completadas_hoy">Completadas Hoy</string>
+    <string name="tiempo_de_orden">Tiempo de Orden</string>
+    <string name="categorias">Categoria</string>
+    <string name="perfil">Perfil</string>
+    <string name="productos">Productos</string>
+    <string name="historial">Historial</string>
+    <string name="tiempo_en_minutos">Tiempo en Minutos</string>
+    <string name="ver_productos">Ver Productos</string>
+    <string name="estado_punto">Estado:</string>
+    <string name="venta_punto">Venta:</string>
+    <string name="cliente_punto">Cliente:</string>
+    <string name="direccion_punto">Dirección:</string>
+    <string name="telefono_punto">Teléfono:</string>
+    <string name="nota_punto">Nota: </string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="no_hay_ordenes">No hay Ordenes</string>
+    <string name="usuario_desactivado">Usuario Desactivado</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="producto">Producto</string>
+    <string name="iniciar_orden">Iniciar Orden</string>
+    <string name="total">Total</string>
+    <string name="unidades">Unidades</string>
+    <string name="precio">Precio</string>
+    <string name="notas">Notas</string>
+    <string name="orden_iniciada">Orden Iniciada</string>
+    <string name="cancelacion">Cancelación</string>
+    <string name="agregar_una_nota_para_el_cliente">Agregar una nota para el cliente</string>
+    <string name="enviar">Enviar</string>
+    <string name="nota_cancelacion_es_requerida">Nota de cancelamiento es requerida</string>
+    <string name="nota_para_el_cliente">Nota para el Clliente</string>
+    <string name="cancelar_orden">Cancelar Orden</string>
+    <string name="orden_cancelada">Orden Cancelada</string>
+    <string name="minutos_de_espera">Minutos de Espera</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="finalizar_orden">Finalizar Orden</string>
+    <string name="canceladas_hoy">Canceladas Hoy</string>
+    <string name="modificar_categoria">Modificar Categoría</string>
+    <string name="estado_de_categoria">Estado de Categoría</string>
+    <string name="activada">Activada</string>
+    <string name="desactivada">Desactivada</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizar_categoria">Actualizar Categoría</string>
+    <string name="categoria_actualizada">Categoría Actualizada</string>
+    <string name="actualizar_producto">Actualizar Producto</string>
+    <string name="producto_actualizado">Producto Actualizado</string>
+    <string name="no_hay_registros">No hay registros</string>
+    <string name="notificacion">Notificación</string>
+    <string name="activar">Activar</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>

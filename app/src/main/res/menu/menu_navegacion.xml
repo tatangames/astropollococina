@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <item
+        android:id="@+id/nav_ordenes"
+        android:icon="@drawable/icono_carrito"
+        android:title="@string/nuevas_ordenes" />
+
+    <item
+        android:id="@+id/nav_preparando"
+        android:icon="@drawable/icono_carrito"
+        android:title="@string/orden_en_preparacion" />
+
+    <item
+        android:id="@+id/nav_completadas"
+        android:icon="@drawable/icono_carrito"
+        android:title="@string/completadas_hoy" />
+
+    <item
+        android:id="@+id/nav_canceladas"
+        android:icon="@drawable/icono_carrito"
+        android:title="@string/canceladas_hoy" />
+
+    <item
+        android:id="@+id/nav_categorias"
+        android:icon="@drawable/icono_categoria"
+        android:title="@string/categorias" />
+
+    <item
+        android:id="@+id/nav_notificacion"
+        android:icon="@drawable/icono_notificacion"
+        android:title="@string/notificacion" />
+
+
+    <item
+        android:id="@+id/nav_historial"
+        android:icon="@drawable/icono_fecha"
+        android:title="@string/historial" />
+
+    <item
+        android:id="@+id/nav_cerrar"
+        android:icon="@drawable/icono_candado_gris"
+        android:title="@string/cerrar_sesion" />
+
+</menu>
+
+
+
+
